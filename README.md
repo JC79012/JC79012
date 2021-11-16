@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JC79012
-- 👀 I’m interested in C++, Python, SQL 
-- 🌱 I’m currently learning javacrypt, CSS, HTML
-- 💞️ I’m looking to collaborate on a web building project 
+- 👋 Hi, I’m Maite
+- 👀 I’m interested in C++, Python, SQL, and Java
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java project 
 - 📫 How to reach me mflores79012@gmail.com
 
 <!---
